@@ -36,7 +36,7 @@ The R version used for this project is 4.5.1 (2025-06-13).
 
 - Download and unzip the project folder.
 
-- Open `Assignment2.Rproj` in RStudio.
+- Open `SOCS0100-Assignment2.Rproj` in RStudio.
 
 - Run the R scripts to reproduce the data processing, and use the included datasets in `data/`.
 
